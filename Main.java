@@ -13,7 +13,7 @@ public class Main {
         int input = 10;
         while (input != 0) {
             System.out.println("Select Option");
-            System.out.println(" 1 . B M I     ");
+            System.out.println(" 1 . B M I          2 . My B M I    0.EXIT ");
              input =sc.nextInt();
             switch (input) {
                 case 1:
