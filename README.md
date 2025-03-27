@@ -1,4 +1,4 @@
-#    🌟Welcome to **FlavourFit**🌟
+#    🌟Welcome to **FlavourFiT**🌟
 
  your personal health companion designed to help you maintain a healthy lifestyle through nutrition, exercise, and wellness tracking.This project is based on my interpretation of the title "Savour the Flavour of Health" 
 ## 🗃 Design
@@ -57,4 +57,4 @@ For any inquiries or contributions, feel free to reach out via [sinhartx2070@gma
 
 ---
 
-Thank you for using **FitFlavour**! Stay healthy and enjoy your journey to wellness! 🌱
+Thank you for using **FlavourFiT**! Stay healthy and enjoy your journey to wellness! 🌱
