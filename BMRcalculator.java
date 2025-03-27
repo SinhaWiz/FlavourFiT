@@ -43,7 +43,7 @@ public class BMRcalculator implements Calculator {
     }
 
     private void calculateAndDisplayBMR() {
-        bmr = calculateBMR(weight, height, age, isMale);
+        bmr =calculateBMR(weight, height, age, isMale)*1.2;
         System.out.printf("Your BMR is: %.2f calories per day\n", bmr);
     }
 
