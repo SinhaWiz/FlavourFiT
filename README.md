@@ -11,37 +11,37 @@ Certein Design principles were followed when building this project .
 ## 📋 Features
 
 ### 🏋️‍♂️**BMI Calculator** 
-- <span style="color:blue;">Calculate your Body Mass Index (BMI)</span>
-- <span style="color:blue;">Get health condition assessments based on BMI categories</span>
-- <span style="color:blue;">Calculate target weight for specific BMI goals</span>
+- Calculate your Body Mass Index 
+- Get health condition assessments based on BMI categories
+- Calculate target weight for specific BMI goals
 
 ### 🔥**BMR Calculator** 
-- <span style="color:blue;">Calculate your Basal Metabolic Rate (BMR)</span>
-- <span style="color:blue;">Determine daily calorie needs based on activity level</span>
+- Calculate your Basal Metabolic Rate (BMR)
+- Determine daily calorie needs based on activity level
 
 ### 💪**Home Workout Plans** 
-- <span style="color:blue;">Beginner, intermediate, and advanced workout plans</span>
-- <span style="color:blue;">Detailed instructions with reps and sets</span>
-- <span style="color:blue;">Warm-up and cool-down routines</span>
+- Beginner, intermediate, and advanced workout plans
+- Detailed instructions with reps and sets
+- Warm-up and cool-down routines
 
 ### 🍏**Diet Change Suggestions** 
-- <span style="color:blue;">Practical tips for healthier eating habits</span>
-- <span style="color:blue;">Simple food substitutions for better nutrition</span>
+- Practical tips for healthier eating habits
+- Simple food substitutions for better nutrition
 
 ### 🍽️**Healthy Cooking Recipes** 
-- <span style="color:blue;">List of healthy cooking ingredients with nutritional benefits</span>
-- <span style="color:blue;">26 nutritious recipes with ingredients and instructions</span>
+- List of healthy cooking ingredients with nutritional benefits
+- 26 nutritious recipes with ingredients and instructions
 
 ### ❤️**Blood Pressure Management** 
-- <span style="color:blue;">Suggestions for managing high and low blood pressure</span>
+- Suggestions for managing high and low blood pressure
 
 ### 🩺**Heart Disease & Diabetes Management** 
-- <span style="color:blue;">Dietary and lifestyle recommendations for heart disease and diabetes</span>
+- Dietary and lifestyle recommendations for heart disease and diabetes
 
 ### 💧**Water Intake Tracker** 
-- <span style="color:blue;">Track your daily water intake</span>
-- <span style="color:blue;">Set personalized hydration goals</span>
-- <span style="color:blue;">Visual progress monitoring with percentage completion</span>
+- Track your daily water intake
+- Set personalized hydration goals
+- Visual progress monitoring with percentage completion
 
 ## 🛠️ Libraries/Frameworks Used
 - **Java**: The primary programming language used for development.
