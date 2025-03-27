@@ -62,7 +62,7 @@ public class BMRcalculator implements Calculator {
         System.out.printf("Your estimated daily calorie needs: %.2f calories\n", dailyCalories);
 
         double workoutCalories = dailyCalories - (bmr*1.2);
-        System.out.printf("\nAdditional calories burned through activity: %.2f calories\n", workoutCalories);
+        System.out.printf("\nAdditional calories can be burned through activity: %.2f calories\n", workoutCalories);
     }
     public double calculateBMR(double weight, double height, int age, boolean isMale) {
         if (isMale) {
